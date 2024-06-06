@@ -23,8 +23,8 @@ BlumBot is a Telegram automation tool designed to help you manage and interact w
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/flaming-chameleon/telegram-blum-auto.git
-    cd telegram-blum-auto
+    git clone https://github.com/SulemanSadat/Blum.git
+    cd Blum
     ```
 
 2. **Run script:**
