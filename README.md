@@ -1,6 +1,8 @@
 
 ## Recommendation before usage
 
+I am not responsible for any illegal actions that may occur with your Telegram account as a result of using this project. I uploaded this project to my GitHub repository because I found it to be helpful and, in my opinion, it appears to be safe. However, the responsibility for any misuse or legal issues that arise from its use lies solely with the end user. Please use the project responsibly and ensure compliance with all applicable laws and terms of service.
+
 # 🔥🔥 use PYTHON 3.10 🔥🔥
 
 
